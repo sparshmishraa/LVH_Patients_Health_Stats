@@ -26,24 +26,26 @@ Analysis of Heart failure prediction dataset using Excel and Tableau
 
 # Exploratory Data Analysis:
 
-For analysis I will use **tableau** for creating charts to finding insights.
+For analysis I will use **Tableau** for creating charts to finding insights.
 
 First I imported the data to tableau.
 
-1. Then I created an area chart that shows number of people suffering from heart disease filtered by age group and gender.
+1. Then I created an bar chart that shows number of people suffering from heart disease by age-group.
 
 2. Created a bar chart which shows median cholesterol levels by gender and age groups.
-
-3. Created a stacked column chart that shows number of people experienced different types of chest pain filtered by whether they have heart disease or not.
 
 4. Created a pie chart to show composition of people out of total experienced chest pain filtered by age group and gender.
 
 5. To check if there is a correlation between age and Resting BP I created a scatterplot filtered by gender and heart disease.
 
-6. To see how many people out of total have ECG results normal, LVH, ST, I created a pie chart
 
-7. Created a scatter plot to show correlation between age and max HR.
+# Key Insights
 
-8. Finally I created a bubble chart to find any relation between age and old peak.
+1. **Age and Heart Disease Prevalence**: A significant 85.6% of heart disease cases are found in the elderly, while 13.3% are in the middle-aged group, and only 1% affect young individuals.
 
+2. **Cholesterol Levels by Gender**: Half of all females have cholesterol levels exceeding 267 mg/dL, while 50% of males have levels over 239 mg/dL.
+
+3. **Pain Type Distribution**: Asymptomatic cases dominate, with 54.3% of patients reporting no pain, followed by 25% experiencing non-anginal pain, 12.2% with atypical anginal pain, and the rest showing typical anginal pain.
+
+4. **Age and Blood Pressure**: There is a positive correlation between age and resting blood pressure, indicating that older patients tend to have higher BP levels.
 
