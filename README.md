@@ -1,4 +1,4 @@
-# Heart_Health_Analysis
+# LVH Patients Health Stats
 Analysis of Heart failure prediction dataset using Excel and Tableau
 
 ![Heart-Xray-Chest_1000x600-1000x600 (1)](https://github.com/SparshMishra42/Heart_Health_Analysis/assets/143194226/b76818df-f838-4c02-937a-a44a22d5ec1d)
@@ -48,4 +48,6 @@ First I imported the data to tableau.
 3. **Pain Type Distribution**: Asymptomatic cases dominate, with 54.3% of patients reporting no pain, followed by 25% experiencing non-anginal pain, 12.2% with atypical anginal pain, and the rest showing typical anginal pain.
 
 4. **Age and Blood Pressure**: There is a positive correlation between age and resting blood pressure, indicating that older patients tend to have higher BP levels.
+
+5. **Age and Max Heart Rate**: A negative correlation exists, as maximum heart rate decreases with age.
 
