@@ -4,10 +4,17 @@ Analysis of Heart failure prediction dataset using Excel and Tableau
 ![Heart-Xray-Chest_1000x600-1000x600 (1)](https://github.com/SparshMishra42/Heart_Health_Analysis/assets/143194226/b76818df-f838-4c02-937a-a44a22d5ec1d)
 
 
-# Details About The Dataset
+# Details about the LVH or Left Ventricular Hypertrophy condition:
 
+LVH, or Left Ventricular Hypertrophy, is a condition that occurs when the heart's left ventricle muscle thickens and enlarges.
 
+The left ventricle pumps blood into the aorta (the largest artery in the body), which sends this oxygenated blood to tissues throughout your body.
 
+Thicker walls in the left ventricle can interfere with your heart’s ability to pump blood into the aorta.
+
+**SOURCES**: https://my.clevelandclinic.org/health/diseases/21883-left-ventricular-hypertrophy.
+         https://www.heart.org/en/health-topics/heart-valve-problems-and-disease/heart-valve-problems-and-causes/what-is-left-ventricular-hypertrophy-lvh
+         
 # Data Cleaning & Preparation
 
 ## Data Cleaning:
@@ -28,6 +35,8 @@ Analysis of Heart failure prediction dataset using Excel and Tableau
 
 For analysis I will use **Tableau** for creating charts to finding insights.
 
+I filtered the entire dataset to show stats for only LVH Patients.
+
 First I imported the data to tableau.
 
 1. Then I created an bar chart that shows number of people suffering from heart disease by age-group.
@@ -37,6 +46,8 @@ First I imported the data to tableau.
 4. Created a pie chart to show composition of people out of total experienced chest pain filtered by age group and gender.
 
 5. To check if there is a correlation between age and Resting BP I created a scatterplot filtered by gender and heart disease.
+
+6. Lastly, I created another scatter plot to check if there is any correlation between age of patients and their max heart rate.
 
 
 # Key Insights
